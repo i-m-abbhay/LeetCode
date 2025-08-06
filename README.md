@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/i-m-abbhay/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/i-m-abbhay/LeetCode/tree/master/0461-hamming-distance) |
 ## Backtracking
 |  |
 | ------- |
