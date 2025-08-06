@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/i-m-abbhay/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/i-m-abbhay/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/i-m-abbhay/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/i-m-abbhay/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/i-m-abbhay/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
 ## Tree
