@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0136-single-number) |
 | [0416-partition-equal-subset-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/i-m-abbhay/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/i-m-abbhay/LeetCode/tree/master/0461-hamming-distance) |
