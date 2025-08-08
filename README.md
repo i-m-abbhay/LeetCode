@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/i-m-abbhay/LeetCode/tree/master/0258-add-digits) |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
+| [0826-soup-servings](https://github.com/i-m-abbhay/LeetCode/tree/master/0826-soup-servings) |
 | [1236-n-th-tribonacci-number](https://github.com/i-m-abbhay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0494-target-sum) |
+| [0826-soup-servings](https://github.com/i-m-abbhay/LeetCode/tree/master/0826-soup-servings) |
 | [0967-minimum-falling-path-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/i-m-abbhay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1559-cherry-pickup-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/i-m-abbhay/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
