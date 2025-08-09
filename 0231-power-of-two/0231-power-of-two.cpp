@@ -3,10 +3,15 @@ public:
 
     //recursive solution
     bool isPowerOfTwo(int n){
-        
-        if(n==1) return true;
-        if(n==0 || n%2 != 0) return false;
-        return isPowerOfTwo(n/2);
+        if(n<0) return false;
+        long long set_bit_count = 0;
+        while(n){
+            if(1&n){
+                set_bit_count++;
+            }
+            n = n>>1;
+        }
+        return set_bit_count == 1 ? true : false; 
 
     // bool isPowerOfTwo(int n) {
     // if (n <= 0) return false;
