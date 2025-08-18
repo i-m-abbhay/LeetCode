@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/i-m-abbhay/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/i-m-abbhay/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0120-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/i-m-abbhay/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/i-m-abbhay/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/i-m-abbhay/LeetCode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0494-target-sum) |
 ## Memoization
