@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/i-m-abbhay/LeetCode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/i-m-abbhay/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/i-m-abbhay/LeetCode/tree/master/0051-n-queens) |
@@ -157,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
