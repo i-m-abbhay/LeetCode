@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/i-m-abbhay/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/i-m-abbhay/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/i-m-abbhay/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/i-m-abbhay/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -171,8 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/i-m-abbhay/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/i-m-abbhay/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/i-m-abbhay/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/i-m-abbhay/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/i-m-abbhay/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/i-m-abbhay/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
