@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/i-m-abbhay/LeetCode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/i-m-abbhay/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/i-m-abbhay/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/i-m-abbhay/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/i-m-abbhay/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
