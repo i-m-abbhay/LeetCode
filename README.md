@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/i-m-abbhay/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/i-m-abbhay/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/i-m-abbhay/LeetCode/tree/master/0258-add-digits) |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/i-m-abbhay/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/i-m-abbhay/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/i-m-abbhay/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
 | ------- |
