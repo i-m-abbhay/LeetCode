@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/i-m-abbhay/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/i-m-abbhay/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/i-m-abbhay/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/i-m-abbhay/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/i-m-abbhay/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/i-m-abbhay/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/i-m-abbhay/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/i-m-abbhay/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/i-m-abbhay/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
