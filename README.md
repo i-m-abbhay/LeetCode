@@ -82,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/i-m-abbhay/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/i-m-abbhay/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/i-m-abbhay/LeetCode/tree/master/0077-combinations) |
+| [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0494-target-sum) |
 ## Memoization
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/i-m-abbhay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
