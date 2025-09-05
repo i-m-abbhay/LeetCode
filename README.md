@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/i-m-abbhay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/i-m-abbhay/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
