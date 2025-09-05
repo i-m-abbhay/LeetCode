@@ -2,16 +2,13 @@ class Solution {
 public:
     string reverseVowels(string s) {
         int l = 0, r = s.size()-1;
-        while(l<r){
-            if(!isVowel(s[l])){
-                l++;
-            }
-            if(!isVowel(s[r])){
-                r--;
-            }
-            if(isVowel(s[l]) && isVowel(s[r])){
+        while (l < r) {
+            while (l < r && !isVowel(s[l])) ++l;
+            while (l < r && !isVowel(s[r])) --r;
+
+            if (l < r) {
                 swap(s[l], s[r]);
-                l++;r--;
+                ++l; --r;
             }
         }
         return s;
