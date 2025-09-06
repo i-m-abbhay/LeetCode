@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/i-m-abbhay/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/i-m-abbhay/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/i-m-abbhay/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/i-m-abbhay/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/i-m-abbhay/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/i-m-abbhay/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/i-m-abbhay/LeetCode/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0137-single-number-ii) |
