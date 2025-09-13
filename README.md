@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/i-m-abbhay/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/i-m-abbhay/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
 | [0826-soup-servings](https://github.com/i-m-abbhay/LeetCode/tree/master/0826-soup-servings) |
 | [1236-n-th-tribonacci-number](https://github.com/i-m-abbhay/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/i-m-abbhay/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/i-m-abbhay/LeetCode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/i-m-abbhay/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/i-m-abbhay/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/i-m-abbhay/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/i-m-abbhay/LeetCode/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
 | [1054-complement-of-base-10-integer](https://github.com/i-m-abbhay/LeetCode/tree/master/1054-complement-of-base-10-integer) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/i-m-abbhay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
 ## String
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/i-m-abbhay/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -252,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
