@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/i-m-abbhay/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0494-target-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/i-m-abbhay/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/i-m-abbhay/LeetCode/tree/master/0169-majority-element) |
