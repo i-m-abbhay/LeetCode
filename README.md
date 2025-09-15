@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/i-m-abbhay/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/i-m-abbhay/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/i-m-abbhay/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0494-target-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/i-m-abbhay/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/i-m-abbhay/LeetCode/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
 | [1054-complement-of-base-10-integer](https://github.com/i-m-abbhay/LeetCode/tree/master/1054-complement-of-base-10-integer) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/i-m-abbhay/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/i-m-abbhay/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/i-m-abbhay/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/i-m-abbhay/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/i-m-abbhay/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/i-m-abbhay/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
