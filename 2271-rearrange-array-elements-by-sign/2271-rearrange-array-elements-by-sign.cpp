@@ -14,9 +14,10 @@ public:
                 res[negInd] = el
                 negInd+=2; 
         */
+        int n = nums.size();
+        vector<int> res(n,0);
         int posInd = 0, negInd = 1;
-        vector<int> res(nums.size(), 0);
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<n;i++){
             if(nums[i]>0){
                 res[posInd] = nums[i];
                 posInd+=2;
