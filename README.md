@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/i-m-abbhay/LeetCode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/i-m-abbhay/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/i-m-abbhay/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
