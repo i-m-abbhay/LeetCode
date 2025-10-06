@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/i-m-abbhay/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/i-m-abbhay/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/i-m-abbhay/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/i-m-abbhay/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
