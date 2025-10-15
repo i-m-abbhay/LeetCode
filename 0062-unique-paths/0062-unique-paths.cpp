@@ -23,8 +23,6 @@ public:
         // return dp[m-1][n-1];
         
         //space optimized tabulation // space optimize in 1d dp array
-        // tc = O(m x n), sc = O(n)
-        //                     ^ 2 dp arrays of size n 
         vector<int> prev(n, 0); 
         for(int i = 0; i<m;i++){
             vector<int> cur(n, 0);
