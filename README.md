@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/i-m-abbhay/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/i-m-abbhay/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/i-m-abbhay/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/i-m-abbhay/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/i-m-abbhay/LeetCode/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/i-m-abbhay/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/i-m-abbhay/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/i-m-abbhay/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/i-m-abbhay/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/i-m-abbhay/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/i-m-abbhay/LeetCode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/i-m-abbhay/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/i-m-abbhay/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/i-m-abbhay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/i-m-abbhay/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/i-m-abbhay/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
