@@ -3,11 +3,9 @@
  * @return {boolean}
  */
 var isEmpty = function(obj) {
-    if(Array.isArray(obj)){
-        return obj.length === 0;
+    var count = 0;
+    for (const key in obj) {
+        count++;
     }
-    else{
-        let arr = Object.keys(obj);
-        return arr.length === 0;
-    }
+    return !count;
 };
