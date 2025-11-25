@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/i-m-abbhay/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0494-target-sum) |
+| [0704-binary-search](https://github.com/i-m-abbhay/LeetCode/tree/master/0704-binary-search) |
 | [0967-minimum-falling-path-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/i-m-abbhay/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/i-m-abbhay/LeetCode/tree/master/0704-binary-search) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/i-m-abbhay/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Stack
 |  |
