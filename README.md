@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/i-m-abbhay/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
+| [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/i-m-abbhay/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
 ## Simulation
 |  |
 | ------- |
