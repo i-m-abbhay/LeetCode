@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
+| [0677-map-sum-pairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0782-jewels-and-stones](https://github.com/i-m-abbhay/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 ## String
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/i-m-abbhay/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
+| [0677-map-sum-pairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0782-jewels-and-stones](https://github.com/i-m-abbhay/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/i-m-abbhay/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/i-m-abbhay/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0677-map-sum-pairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0677-map-sum-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -369,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
+## Design
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
