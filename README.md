@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/i-m-abbhay/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/i-m-abbhay/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/i-m-abbhay/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/i-m-abbhay/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Matrix
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/i-m-abbhay/LeetCode/tree/master/0782-jewels-and-stones) |
+| [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 ## String
 |  |
 | ------- |
@@ -358,4 +363,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 <!---LeetCode Topics End-->
