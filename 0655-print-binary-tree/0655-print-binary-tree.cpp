@@ -32,6 +32,7 @@ public:
         
         int n = pow(2, ht+1)-1, m = ht+1;
         vector<vector<string>> res(m, vector<string>(n, ""));
+
         matrix(res, root, 0, (n-1)/2, ht);
         return res;
     }
