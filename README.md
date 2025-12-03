@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
 ## Depth-First Search
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
 ## Simulation
 |  |
