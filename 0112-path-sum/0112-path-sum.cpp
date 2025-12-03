@@ -15,21 +15,20 @@ public:
         if(!root) return false;
         queue<pair<TreeNode*, int>> q;
         q.push({root, targetSum-root->val});
-        targetSum-=root->val;
+       
         while(!q.empty()){
             int size = q.size();
-            for(int i=0;i<size;i++){
-                TreeNode* node = q.front().first;
-                int target = q.front().second;
-                if(target == 0 && !node->left && !node->right) return true;
-                q.pop();
-                if(node->left){
-                    q.push({node->left, target-node->left->val});
-                }
-                if(node->right){
-                    q.push({node->right, target-node->right->val});
-                }
+            
+            TreeNode* node = q.front().first;
+            int target = q.front().second;
+            if(target == 0 && !node->left && !node->right) return true;
+            q.pop();
+            if(node->left){
+                q.push({node->left, target-node->left->val});
             }
+            if(node->right){
+                q.push({node->right, target-node->right->val});
+        }
         }
 
 
