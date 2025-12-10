@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/i-m-abbhay/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/i-m-abbhay/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0655-print-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/i-m-abbhay/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0700-search-in-a-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/i-m-abbhay/LeetCode/tree/master/0704-binary-search) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/i-m-abbhay/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Stack
