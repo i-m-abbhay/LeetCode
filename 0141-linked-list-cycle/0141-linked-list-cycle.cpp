@@ -7,12 +7,15 @@
  * };
  */
 class Solution {
-    unordered_set<ListNode*> visited;
+  
 public:
     bool hasCycle(ListNode *head) {
-        if(head==nullptr) return false;
-        if(visited.count(head)) return true;
-        visited.insert(head);
-        return hasCycle(head->next);
+        unordered_set<ListNode*> visited;
+        while(head!=nullptr){
+            if(visited.count(head)) return true;
+            visited.insert(head);
+            head = head->next;
+        }
+        return false;
     }
 };
