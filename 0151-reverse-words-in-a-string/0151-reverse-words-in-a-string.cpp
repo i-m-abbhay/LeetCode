@@ -1,24 +1,23 @@
-#include<bits/stdc++.h>
 class Solution {
 public:
-    vector<string> splitTrimString(string s){
-        vector<string> tokens;
-        char delimiter = ' ';
-        string token;
-        stringstream ss(s);
-        while(getline(ss, token, delimiter)){
-            if(token!=""&&token!=" ") tokens.push_back(token) ;
-        }
-        return tokens;
-    }
     string reverseWords(string s) {
-        
-        vector<string> splitted = splitTrimString(s);
-        reverse(splitted.begin(),splitted.end());
-        string result = splitted[0];
-        for(int i=1;i<splitted.size();i++){
-            result +=(" "+ splitted[i]);
+        vector<string> strvec;
+        string str ="";
+        for(int i =0;i<=s.size();i++){
+            if(i==s.size() || s[i]==' ') {
+                if(!str.empty()) strvec.push_back(str);
+                str.clear();
+            } else {
+                str+=s[i];
+            }
         }
-        return result;
+        
+        reverse(strvec.begin(), strvec.end());
+        str="";
+        for(int i=0;i<strvec.size();i++){
+            str+=strvec[i];
+            if(i!=strvec.size()-1) str+=" ";
+        }
+        return str;
     }
 };
