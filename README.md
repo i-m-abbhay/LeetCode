@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/i-m-abbhay/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/i-m-abbhay/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/i-m-abbhay/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/i-m-abbhay/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0494-target-sum) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/i-m-abbhay/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/i-m-abbhay/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/i-m-abbhay/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/i-m-abbhay/LeetCode/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/i-m-abbhay/LeetCode/tree/master/0464-can-i-win) |
