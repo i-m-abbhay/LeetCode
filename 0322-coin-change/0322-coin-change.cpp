@@ -1,22 +1,20 @@
 class Solution {
-    int helper(vector<int>&coins, int curr, int amount, vector<vector<int>>&dp){
-        if(amount == 0) return 0;
-        if(curr==coins.size()) return 1e9;
-        if(dp[curr][amount]!=-1) return dp[curr][amount];
-        int not_take = helper(coins, curr+1, amount, dp);
-        int take = 1e9;
-        if(coins[curr]<=amount){
-            take = 1+helper(coins, curr, amount-coins[curr], dp);
+    int dfs(vector<int>& memo, int rem, vector<int> &coins){
+        if(rem == 0) return 0;
+        if(rem<0) return -1;
+        if(memo[rem]!=-2) return memo[rem];
+        int best = INT_MAX;
+        for(int coin: coins){
+            int sub = dfs(memo, rem-coin, coins);
+            if(sub>=0) best = min(best, sub+1);
         }
-        return dp[curr][amount] = min(take,not_take);
+        memo[rem] = (best == INT_MAX) ? -1: best;
+        return memo[rem];
     }
 public:
+    //dp[x] = minimum number of coins needed to make amount x
     int coinChange(vector<int>& coins, int amount) {
-        int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount+1,-1));
-        //there is no uniformity in denominations of coins so greedy approach can not be use here.
-        //try out all the combos that makes the amount and return the min.
-        int ans = helper(coins, 0, amount, dp);
-        return (ans >= 1e9 ? -1:ans);
+        vector<int> memo(amount + 1, -2); //-2 not computer, -1 impossible, >=0 answer
+    return dfs(memo, amount, coins);
     }
 };
