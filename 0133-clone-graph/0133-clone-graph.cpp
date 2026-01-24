@@ -20,20 +20,22 @@ public:
 */
 
 class Solution {
-public:
-    unordered_map<Node*, Node*> mp; 
-    Node* cloneGraph(Node* node) {
-   
-        if(!node) return nullptr;
-        return dfs(node);
-    }
-    Node* dfs(Node* node){
-        if(mp.count(node)) return mp[node];
-        Node* clone = new Node(node->val);
-        mp[node] = clone;
-        for(auto nei: node->neighbors){
-            clone->neighbors.push_back(dfs(nei));
+    Node* cloneUtil(Node* node, unordered_map<Node*, Node*>&old_new){
+        Node* newNode = new Node(node->val);
+        old_new[node]=newNode;
+        for(auto neighbor: node->neighbors){
+            if(old_new.find(neighbor)==old_new.end()){
+                (newNode->neighbors).push_back(cloneUtil(neighbor, old_new));       
+            } else {
+                (newNode->neighbors).push_back(old_new[neighbor]);
+            }
         }
-        return clone;
+        return newNode;
+    }
+public:
+    Node* cloneGraph(Node* node) {
+        if (!node) return node;
+        unordered_map<Node*, Node*> old_new;
+        return cloneUtil(node, old_new);
     }
 };
