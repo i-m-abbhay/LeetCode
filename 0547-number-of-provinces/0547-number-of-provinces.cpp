@@ -1,13 +1,13 @@
 class Solution {
-    void bfs(int node, vector<vector<int>>& isConnected, vector<int>& vis){
+    void bfs(int node, vector<vector<int>>& isConnected, int n, vector<int>& vis){
         queue<int> q;
         q.push(node);
         vis[node] = 1;
         while(!q.empty()){
             int vertex = q.front();
             q.pop();
-            for(int v = 0; v<isConnected.size();v++){
-                if(isConnected[vertex][v]==1&&!vis[v]){
+            for(int v = 0; v<n;v++){
+                if(isConnected[vertex][v]==1 && !vis[v]){
                     vis[v]=1;
                     q.push(v);
                 }
@@ -22,7 +22,7 @@ public:
         int numberOfProvinces = 0;
         for(int i=0;i<n;i++){
             if(vis[i]==0){
-                bfs(i, isConnected, vis);
+                bfs(i, isConnected, n, vis);
                 numberOfProvinces++;
             }
         }
