@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/i-m-abbhay/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/i-m-abbhay/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/i-m-abbhay/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/i-m-abbhay/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3453-separate-squares-i](https://github.com/i-m-abbhay/LeetCode/tree/master/3453-separate-squares-i) |
 | [3493-properties-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/3493-properties-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/i-m-abbhay/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/i-m-abbhay/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/i-m-abbhay/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/i-m-abbhay/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/i-m-abbhay/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -479,9 +481,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/i-m-abbhay/LeetCode/tree/master/0547-number-of-provinces) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/i-m-abbhay/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/i-m-abbhay/LeetCode/tree/master/0547-number-of-provinces) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/i-m-abbhay/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
