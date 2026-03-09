@@ -3,7 +3,8 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        const int max = 5000001;
+        if(n<2) return 0;
+        const int max = n+1;
         bool is_prime[max]; // if is_prime[i] = true t.m. i = prime
         is_prime[0] = 0;
         is_prime[1] = 0;
