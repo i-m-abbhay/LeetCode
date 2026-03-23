@@ -1,23 +1,21 @@
 class Solution {
-    string normalize(const string& input){
-        string result;
-        for(char ch:input){
-            if(std::isalnum(static_cast<unsigned char>(ch))){
-                result+=tolower(ch);
-            }
-        }
-        return result;
-    }
+
 public:
     bool isPalindrome(string s) {
-        string ss = normalize(s);
-        int l=0, r=ss.length()-1;
-        while(l<r){
-            if(ss[l]!=ss[r]){
-                return false;
-            }
-            l++;r--;
+       int l = 0, r = s.size() - 1;
+       while(l<r){
+        while(l<r && !std::isalnum(static_cast<unsigned char>(s[l]))){
+            l++;
         }
-        return true;
+        while(l<r && !std::isalnum(static_cast<unsigned char>(s[r]))){
+            r--;
+        }
+        if(std::tolower(static_cast<unsigned char>(s[l]))!=std::tolower(static_cast<unsigned char>(s[r]))){
+            return false;
+        }
+        l++;
+        r--;
+       }
+       return true;
     }
 };
