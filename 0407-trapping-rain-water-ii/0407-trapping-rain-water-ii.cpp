@@ -1,66 +1,58 @@
 class Solution {
 public:
     int trapRainWater(vector<vector<int>>& heightMap) {
-        int dRow[4] = {0,0,-1,1};
-        int dCol[4] = {-1, 1, 0, 0};
-        int numOfRows = heightMap.size();
-        int numOfCols = heightMap[0].size();
-
-        vector<vector<bool>> visited (numOfRows, vector<bool>(numOfCols, false));
-
+        int totalRows = heightMap.size();
+        int totalCols = heightMap[0].size();
         priority_queue<Cell> boundary;
-        
-        for(int i = 0;i < numOfRows; i++){
-            boundary.push(Cell(heightMap[i][0], i , 0));
-            boundary.push(Cell(heightMap[i][numOfCols-1], i , numOfCols-1));
-            visited[i][0] = visited[i][numOfCols-1] = true;
+        vector<vector<bool>> visited(totalRows, vector<bool>(totalCols, false));
+        int dRow[4] = {0, 0, -1, 1};
+        int dCol[4] = {-1, 1, 0, 0};
+        for(int i = 0;i<totalRows;i++){
+            boundary.push(Cell(heightMap[i][0], i, 0));
+            boundary.push(Cell(heightMap[i][totalCols-1],i,totalCols-1));
+            visited[i][0] = visited[i][totalCols-1] = true;
         }
-        for(int i = 0; i <numOfCols;i++){
+        for(int i=0;i<totalCols;i++){
             boundary.push(Cell(heightMap[0][i], 0, i));
-            boundary.push(Cell(heightMap[numOfRows-1][i], numOfRows-1, i));
-            visited[0][i] = visited[numOfRows-1][i] = true;
+            boundary.push(Cell(heightMap[totalRows-1][i], totalRows-1, i));
+            visited[0][i]=visited[totalRows-1][i]=true;
         }
-
-        int totalWaterVolume = 0;
-
+        int waterTotal = 0;
         while(!boundary.empty()){
-            Cell currentCell = boundary.top();
+            Cell currCell = boundary.top();
             boundary.pop();
-
-            int currentRow = currentCell.row;
-            int currentCol = currentCell.col;
-            int minBoundaryHeight = currentCell.height;
-
-            for(int direction = 0; direction<4; direction++){
-                int neighborRow = currentRow + dRow[direction];
-                int neighborCol = currentCol + dCol[direction];
-
-                if(isValidCell(neighborRow, neighborCol, numOfRows, numOfCols) && !visited[neighborRow][neighborCol]){
-                    int neighborHeight = heightMap[neighborRow][neighborCol];
-                    if(neighborHeight < minBoundaryHeight){
-                        totalWaterVolume+=minBoundaryHeight - neighborHeight;
-                    }
-                    boundary.push(Cell(max(neighborHeight, minBoundaryHeight), neighborRow, neighborCol));
-                    visited[neighborRow][neighborCol] = true;
+            int minBoundaryHt = currCell.height;
+            int currRow = currCell.row;
+            int currCol = currCell.col;
+            for(int i =0;i<4;i++){
+                int neighborRow = currRow+dRow[i];
+                int neighborCol = currCol+dCol[i];
+                if(isValidCell(neighborRow, neighborCol, totalRows, totalCols) && !visited[neighborRow][neighborCol]){
+                    if(heightMap[neighborRow][neighborCol]<minBoundaryHt){
+                        waterTotal+= minBoundaryHt - heightMap[neighborRow][neighborCol];
+                            }
+                        boundary.push(Cell(max(minBoundaryHt, heightMap[neighborRow][neighborCol]), neighborRow, neighborCol));
+                        visited[neighborRow][neighborCol] = true;
+                
                 }
             }
-
         }
-        return totalWaterVolume;
+        return waterTotal;
     }
-private:
-    class Cell{
-        public:
-            int height;
-            int row;
-            int col;
 
-            Cell(int height, int row, int col): height(height), row(row), col(col){}
-            bool operator<(const Cell&other) const {
-                return height>=other.height;
-            }
+private:
+    class Cell {
+        public:
+        int height;
+        int row;
+        int col;
+        Cell(int height, int row, int col): height(height), row(row), col(col){}
+
+        bool operator<(const Cell& other)const {
+            return height>other.height;
+        }
     };
-    bool isValidCell(int row, int col, int numOfRows, int numOfCols){
-        return row>=0 && col>=0 && row<numOfRows && col<numOfCols;
+    bool isValidCell(int row, int col, int totalRows, int totalCols){
+        return col<totalCols && row < totalRows && row >=0 && col >= 0;
     }
 };
