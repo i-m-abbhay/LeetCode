@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/i-m-abbhay/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0045-jump-game-ii) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/i-m-abbhay/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/i-m-abbhay/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0782-jewels-and-stones](https://github.com/i-m-abbhay/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/i-m-abbhay/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/i-m-abbhay/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/i-m-abbhay/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/i-m-abbhay/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Sliding Window
