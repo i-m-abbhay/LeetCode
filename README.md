@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/i-m-abbhay/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
+| [0551-student-attendance-record-i](https://github.com/i-m-abbhay/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0677-map-sum-pairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0782-jewels-and-stones](https://github.com/i-m-abbhay/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/i-m-abbhay/LeetCode/tree/master/1021-remove-outermost-parentheses) |
