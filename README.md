@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/i-m-abbhay/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/i-m-abbhay/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/i-m-abbhay/LeetCode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/i-m-abbhay/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/i-m-abbhay/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/i-m-abbhay/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/i-m-abbhay/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/i-m-abbhay/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/i-m-abbhay/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/i-m-abbhay/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/i-m-abbhay/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/i-m-abbhay/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/i-m-abbhay/LeetCode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/i-m-abbhay/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0494-target-sum) |
 ## Memoization
