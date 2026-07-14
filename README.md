@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/i-m-abbhay/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/i-m-abbhay/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/i-m-abbhay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/i-m-abbhay/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/i-m-abbhay/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/i-m-abbhay/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/i-m-abbhay/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/i-m-abbhay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Game Theory
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/i-m-abbhay/LeetCode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/i-m-abbhay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
 | [0677-map-sum-pairs](https://github.com/i-m-abbhay/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0782-jewels-and-stones](https://github.com/i-m-abbhay/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/i-m-abbhay/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/i-m-abbhay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/i-m-abbhay/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/i-m-abbhay/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/i-m-abbhay/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/i-m-abbhay/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/i-m-abbhay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/i-m-abbhay/LeetCode/tree/master/0383-ransom-note) |
 ## Binary Search Tree
 |  |
@@ -523,5 +528,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/i-m-abbhay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/i-m-abbhay/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/i-m-abbhay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
