@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/i-m-abbhay/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/i-m-abbhay/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/i-m-abbhay/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/i-m-abbhay/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/i-m-abbhay/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/i-m-abbhay/LeetCode/tree/master/0054-spiral-matrix) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/i-m-abbhay/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/i-m-abbhay/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/i-m-abbhay/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/i-m-abbhay/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/i-m-abbhay/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/i-m-abbhay/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/i-m-abbhay/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/i-m-abbhay/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/i-m-abbhay/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/i-m-abbhay/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/i-m-abbhay/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/i-m-abbhay/LeetCode/tree/master/0079-word-search) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/i-m-abbhay/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/i-m-abbhay/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/i-m-abbhay/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/i-m-abbhay/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/i-m-abbhay/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/i-m-abbhay/LeetCode/tree/master/0088-merge-sorted-array) |
