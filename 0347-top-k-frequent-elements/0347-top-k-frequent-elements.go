@@ -1,42 +1,30 @@
 func topKFrequent(nums []int, k int) []int {
-    //Sort by frequency
-    // time O(n log n) Space On
-    // count := make(map[int]int)
+  count := make(map[int]int)
 
-    // for _, n := range nums {
-    //     count[n]++
-    // }
-    // keys := make([]int, 0, len(count))
-    // for key := range count {
-    //     keys = append(keys, key)
-    // }
-    // sort.Slice(keys, func(i, j int) bool {
-    //     return count[keys[i]]>count[keys[j]]
-    // })
+  for _, num := range nums {
+    count[num]++
+  }  
+  size := len(nums)
+  buckets := make([][]int, size + 1)
 
-    // return keys[:k]
+  for val, freq := range count {
+    buckets[freq] = append(buckets[freq], val)
+  }
 
-    //Bucket Sort bucket index = frequency
-    //Time On Space On
-    count := make(map[int]int)
-    for _, n:= range nums {
-        count[n]++
-    }
+    res := []int{}
+    res_count := 0
 
-    buckets := make([][]int, len(nums)+1)
-    for num, freq := range count {
-        buckets[freq] = append(buckets[freq], num)
-    }
-
-    res := make([]int, 0, k)
-    for f:= len(buckets) - 1; f >= 0 && len(res) < k; f-- {
-        for _, num := range buckets[f]{
-            res = append(res, num)
-            if len(res)==k {
+    for i:= len(buckets)-1; i>=0;i--{
+        for _, val := range buckets[i]{
+            if k<=res_count {
                 break
             }
+            res = append(res, val)
+            res_count++
         }
+         if k<=res_count {
+                break
+            }
     }
     return res
-
 }
