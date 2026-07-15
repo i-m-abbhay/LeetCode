@@ -13,18 +13,19 @@ func topKFrequent(nums []int, k int) []int {
 
     res := []int{}
     res_count := 0
-
+    outer:
     for i:= len(buckets)-1; i>=0;i--{
         for _, val := range buckets[i]{
             if k<=res_count {
-                break
+                break outer
             }
             res = append(res, val)
             res_count++
         }
-         if k<=res_count {
-                break
-            }
+        //  if k<=res_count {
+        //         break
+        //     }
+        // instead of this I figured out we can use labeled loops in go
     }
     return res
 }
