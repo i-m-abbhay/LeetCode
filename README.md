@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/i-m-abbhay/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/i-m-abbhay/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/i-m-abbhay/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/i-m-abbhay/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/i-m-abbhay/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/i-m-abbhay/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/i-m-abbhay/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/i-m-abbhay/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/i-m-abbhay/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/i-m-abbhay/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/i-m-abbhay/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/i-m-abbhay/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/i-m-abbhay/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/i-m-abbhay/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/i-m-abbhay/LeetCode/tree/master/0547-number-of-provinces) |
 ## Shortest Path
